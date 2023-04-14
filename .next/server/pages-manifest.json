@@ -1,0 +1,8 @@
+{
+  "/": "pages/index.js",
+  "/lib/SceneInit": "pages/lib/SceneInit.js",
+  "/lib/TicTacToe": "pages/lib/TicTacToe.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
